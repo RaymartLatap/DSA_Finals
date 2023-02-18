@@ -1,0 +1,10 @@
+python
+coding
+quick
+algorithm
+data
+bubble
+dsa
+insertion
+merging
+selection
